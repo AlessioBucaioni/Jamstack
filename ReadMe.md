@@ -4,4 +4,6 @@ Survey questions.pdf contains the questions composing the survey.
 
 Survey results.csv contains the practitioner answers.
 
-Interviews folder contains the audio recording of the interviews (we trimmed the audio for comply to the double blind review) 
+Interviews folder contains the audio recording of the interviews (we trimmed the audio for comply to the double blind review).
+
+Please note that you may need to download the files for visualising them properly.
